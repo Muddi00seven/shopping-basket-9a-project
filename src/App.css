@@ -22,14 +22,19 @@ text-align: center;}
   padding-left: 2%;
 }
 .cart-box{
-  margin: 5px 5px;
+  margin-top: 4%;
   color: #202020;
-  width: 300px;
-  padding: 0.5em !important;
-  font-weight: 600 !important;
-  font-size: 16px !important;
+  width: 100%;
   height: auto;
   border: 2px solid #8f8b8b;
+}
+.cart-box h1 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+
+.cart-box h4{
+  font-family: "Comic Sans MS", cursive, sans-serif;
 
 }
 .tshirt-box{
@@ -105,11 +110,11 @@ text-align: center;
     border-bottom: 3px solid grey;
   }
   .product-pic{
-    width: 350px;
+    width: 330px;
   }
   .row-left {
-    width: 15%;
-    float: left;
+    width: 100%;
+    /* float: left; */
   }
   
   .row-right {

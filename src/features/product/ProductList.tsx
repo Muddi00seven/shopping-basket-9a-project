@@ -23,6 +23,9 @@ export const ProductList = () => {
         ))
       }
   </div>
+  <div className='row-left'>
+      <Cart />
+    </div> 
     </>
   )
 }
