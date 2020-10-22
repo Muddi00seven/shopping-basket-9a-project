@@ -2,7 +2,6 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { ProductList } from './features/product/ProductList';
-import Nav from './nav';
 import { BrowserRouter as Router,Routes,Route,Link } from "react-router-dom";
 import CartItem from "./features/cart/CartItem";
 import Navigation from './Components/header/Navigation'

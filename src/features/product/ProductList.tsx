@@ -1,6 +1,6 @@
 import React from 'react';
 import { Item } from './Item';
-import { data } from '../../store/state';
+import { data } from '../../Components/store/state';
 import { Cart } from '../cart/Cart';
 import CartItems from '../cart/CartItem';
 // import './style.css'

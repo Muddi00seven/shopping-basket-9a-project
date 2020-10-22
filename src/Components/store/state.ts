@@ -1,4 +1,4 @@
-import { ProductItem } from '../global';
+import { ProductItem } from '../../global';
 import item1 from '../images/item1.jpg';
 import item2 from '../images/item2.jpg';
 import item3 from '../images/item3.jpg';
