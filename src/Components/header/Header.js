@@ -61,11 +61,11 @@ const Header = ({ onMenuClickHandler }) => {
           <Hidden xsDown>
             <div className={classes.links}>
             {/* LINKS WILL BE PUT HERE */}
-            <Link to="Curator">   <Button className={classes.navButton}>CURATOR  </Button> </Link>
-            <Link to="ListedDapps">    <Button className={classes.navButton}> LISTED PROJECTS </Button> </Link>
-            <Button className={classes.navButton} href="https://t.me/AntiScamTofficial" target="_blank"> TG </Button>
+            <Link to="/">    <Button className={classes.navButton}> Home </Button> </Link>
+            <Link to="/cart">   <Button className={classes.navButton}>Cart  </Button> </Link>
+            {/* <Button className={classes.navButton} href="https://t.me/AntiScamTofficial" target="_blank"> TG </Button>
               
-            <Button className={classes.navButton} href="https://antiscamtoken.cyou/AST.pdf"> WHITE PAPER </Button>
+            <Button className={classes.navButton} href="https://antiscamtoken.cyou/AST.pdf"> WHITE PAPER </Button> */}
 
             </div>
           </Hidden>
