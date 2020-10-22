@@ -19,11 +19,7 @@ export const Item = ({name,price,pic,id}:ItemProps) => {
 
   }
 
-  // const addToCartFunc = () => {
-  //   console.log('item added')
-  //   // const newItem = { name: props.name, price: props.price,id:uniqid() };
-  //   // setCart(currentState => [...currentState, newItem]);
-  // }
+ 
   return (
     <>
     <div className="column">
