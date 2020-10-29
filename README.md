@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Surge Link
 
-shopping-cart-9a.surge.sh
+http://shopping-cart-9a.surge.sh
 
 In the project directory, you can run:
 
